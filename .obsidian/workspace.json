@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5de724f05a6b3e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "80720810f036c67c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f0cad01650c527",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad50d5355b909dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac4d782998a55631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8af7535910a7791c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "800b8ce51908bdc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68a37cb8de29bcc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43a6cec9aab9e495",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda096425ba27cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895d4f50910f1128",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ec2355e8d4a8c8b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f90f5e0f38f80d5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bff924d657944d76",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b0a177170baf6df8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8af7535910a7791c",
+  "lastOpenFiles": [
+    "2026-03-06.md",
+    "Overseer Chen.md",
+    "Lore/Places/Heimkrone.md",
+    "Lore/Factions/APHELION.md",
+    "Campaign/Spine.md",
+    "Campaign/Todo.md",
+    "Threads/APHELION.md",
+    "Staging/README.md",
+    "Session Log/Session_01/Debrief.md",
+    "Session Log/Session_02/Debrief.md",
+    "Session Log/Session_01/Prep/Prep - Training Combat.md",
+    "Session Log/Session_02/Prep",
+    "Session Log/Session_01/Prep/Prep - Arrival.md",
+    "Session Log/Session_01/Prep",
+    "Lore/Places/UNS-LS Last Refuge of Fools.md",
+    "Lore/Places/Reihenstadt.md",
+    "Lore/Places/OVERSIGHT Night Side Archive.md",
+    "Lore/Places/Alpspitze.md",
+    "Lore/People/The Journalist.md",
+    "Lore/People/Sara.md",
+    "Lore/People/Lukas Richter.md",
+    "Lore/People/Kiora.md",
+    "Lore/People/Gus.md",
+    "Lore/People/Franz von Coln.md",
+    "Lore/People/Darj Tarats.md",
+    "Lore/People/Captain Haley.md",
+    "Lore/People/Allison Chen.md",
+    "Lore/People/Abelard.md",
+    "Tools/Templates",
+    "Tools",
+    "Threads",
+    "Staging",
+    "Session Log/Session_01",
+    "Session Log/Session_02",
+    "Session Log",
+    "Lore/Places"
+  ]
+}
