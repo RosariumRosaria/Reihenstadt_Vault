@@ -1,5 +1,20 @@
 # Heimkrone – Lowermost Ring (Promenade)
 
+## 1. Arrival – Heimkrone Promenade (Lowermost Ring)
+
+#### Visuals
+- Spinning ring, gravity readjustment.
+- Bustling promenade, orderly.
+- Shops mixed: tourist + local.
+- Large viewing deck:
+  - Planet below.
+  - Massive river.
+  - Snow/ice hemisphere.
+  - Desert hemisphere.
+- Clean, intentional civic design.
+Players can either poke around shops, or go straight to karte.
+
+
 ## General Atmosphere
 
 - Clean, structured, civic architecture.
@@ -10,20 +25,6 @@ The promenade hums with:
 - Families
 - Workers in transit
 - Light civic chatter
-
----
-
-# Kalenderkarte Sync Effect
-
-Upon exiting Integration, COMP/CONs update:
-
-> **Temporary Kalenderkarte synced – Group Grey**
-
-Subtle effects you can trigger:
-
-- Public transit screens reorganize when they approach.
-- Doors briefly scan before unlocking.
-- A civilian checks their own card and steps aside without comment.
 
 ---
 

@@ -26,5 +26,4 @@
 - [ ] Finish the webhook reply system with 2-factor Discord integration
 
 ## Wiki — Quick Wins
-- [ ] Thematic 404 page ("Document not found. File Form 19-K with your division supervisor.")
 - [ ] Fake "currently logged in users" list (reinforces surveillance tone)

@@ -2,19 +2,7 @@
 
 ---
 
-## 1. Arrival – Heimkrone Promenade (Lowermost Ring)
 
-#### Visuals
-- Spinning ring, gravity readjustment.
-- Bustling promenade, orderly.
-- Shops mixed: tourist + local.
-- Large viewing deck:
-  - Planet below.
-  - Massive river.
-  - Snow/ice hemisphere.
-  - Desert hemisphere.
-- Clean, intentional civic design.
-Players can either poke around shops, or go straight to karte.
 
 ---
 
@@ -47,11 +35,7 @@ Arguing about:
 - Long wait lists.
 - Leaving Group Blue.
 - Family in Green.
-Players must intervene to move line. Bribe, help resolve the family dispute, etc.
-Goal:
-- Show that Heimkrone citizens obey structure.
-- Show that delay is socially normalized.
-- Encourage proactive player behavior.
+Players must intervene to move line. Bribe, help resolve the family dispute 
 
 ---
 
