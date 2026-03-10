@@ -1,5 +1,4 @@
 ## Post-Combat Downtime
-## Post-Combat Downtime
 ### Scene Transition
 The simulation dissolves. HUD elements fade, weapons power down, and the training pod seals disengage with a soft hiss.
 
