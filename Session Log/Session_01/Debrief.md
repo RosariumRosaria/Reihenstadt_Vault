@@ -7,7 +7,7 @@
 
 ## What Happened
 - Players arrived on the Last Refuge of Fools
-- Yskander introduced as the local operative joining the team
+- Indiana introduced as the local operative joining the team
 - Training simulation: VIP extraction scenario (Dawnline Shore, vs. simulated HA)
 
 ## Key Player Decisions

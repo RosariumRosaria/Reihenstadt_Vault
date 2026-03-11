@@ -29,6 +29,10 @@ Players may split up or pair off.
 - Plenty of open space, this section of the ship is kept spinning internally to simulate grav
 - Players can overhear a rumor about the planet below
 	- Two cadets are arguing if the admin was eaten by a giant squid on the ice side, stolen by locals, or simply left to join a pirate group in the system
+- Analyst shows up 
+	- betting pool ssc dovetail
+	- indy bet on HA
+	- unsubtle spagetti control
     
 
 ---
@@ -38,10 +42,16 @@ Players may split up or pair off.
 - Commentary from Sara, a boisterous person
 - First fight is between an ex-SSC gene spliced dancer and a hulking marine
 - Both end up passed out
-
+- PLayers may get volunteered for a fight against a shuttle pilot and an engine worker
+	- pilot is nimble mechanic is hulking
+		- Afterburner
+		- Shuttle Trouble 
+- Events 
+	- Ysk has a slutty waist
+	- Mark toss good like figure skater
+	
 ---
 ### Downtime – Gus’ Farewell
-
 As the Lancers regroup before heading to Bay 16, Gus intercepts them in the corridor.
 
 He’s carrying four brown paper bags.
@@ -58,18 +68,24 @@ Gus grins.
 
 > “Maybe I’ll have that restaurant planetside some day.”
 
-> “When you’re all famous, I’ll pin your portraits on the wall! Good for business.”
+> “When you’re all famous, I’ll pin your pics on the wall! Good for business.”
 
 He laughs heartily, then hesitates.
-
-A beat.
 
 Softer:
 
 > “Could I maybe get a picture of the four of you?”
 
 --- 
+two bunny ears, broke arm
+smile mark
+deadpan indy
 
-###  Captain's Briefing
+second photo 
+indy uncomf
+mark still happy
+char bunny behind kio
+ysk bunny behind kio
+kio all 4 arms
 
-P
+THIS WILL BE A MISSING POSTER AFTER SHUTTLE CRASH
