@@ -61,11 +61,13 @@ Shops include:
 
 Cultural notes:
 - Vendors polite but reserved.
+- Explain (Kronen, the local currency for non-essentials. Their comp/cons are loaded with a modest amount) 
 
 Possible friction:
 - Vendor checks their Grey status before serving.
 - A “Green window” customer asks them what Grey is like.
 - Mild comment about “Union efficiency.”
+
 
 ---
 
@@ -92,6 +94,3 @@ Possible seeds:
 
 ---
 
-other places
-bars
-gameing lounge

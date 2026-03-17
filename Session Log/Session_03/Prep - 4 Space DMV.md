@@ -1,4 +1,4 @@
-# SESSION 2 – HEIMKRONE INTEGRATION
+cur# SESSION 2 – HEIMKRONE INTEGRATION
 
 ---
 
@@ -31,10 +31,11 @@ Kalenderkarte:
 ## Queue Friction
 #### Couple Argument
 Arguing about:
-- Transferring to Group Green.
+- Transferring to Group Blue.
 - Long wait lists.
-- Leaving Group Blue.
+- Leaving Group Green.
 - Family in Green.
+- Will claim that Charlie and Mark are a couple.
 Players must intervene to move line. Bribe, help resolve the family dispute 
 
 ---
@@ -45,24 +46,25 @@ Players must intervene to move line. Bribe, help resolve the family dispute
 Offers:
 - Third-in-line spot
 - In exchange for info.
+- "Abs-so-lute-lee! Names, Greggor, friends call me Greg. I'm with the Krone-Kronciles. Local press group. Mind if we take a few pictures? I'm sure you don't, kind folk like you, offering to help"
 #### Steps
 - Guesses Group Grey (admin/night side).
 - Calls them Lancers.
 - Floats rumors:
   - Invasion
   - NHP trap
-  - Giant squid
+  - [[Giant squid]]
   - Pirates
+- Either way they lose, he gets a headline. Will frame poorly.
 
 ---
 
 ## 4. Fast-Track Orderly
-**Orderly:**
-> "Valued comrades.."
-**Offers:**
-- Fast-tracked integration.
-- Meeting with representative.
-- Tea. The tea will never arrive.
+**Orderly:** "Valued comrades..." Offers fast-tracked integration, a meeting with a representative, and tea. The tea will never arrive. The orderly was held up by a second reporter (similar attire to Greg's associate), who delayed the escort to buy Greg more time with the team.
+
+**Visuals:** The corridor is long and winding, with stark lights. The air is clean, but subtle chemical cleaning products waft through it. Offices and side passages branch off like pulmonary tracks. Coffee machines and printers dot the intersections at small breakrooms like outposts. The front office is merely a face to a far larger organ of the state that huddles behind it. There are dozens of offices before they reach their destination.
+
+**Tea Callback:** If the players return to the Charter later in the campaign, Albert actually serves the tea. Play it straight — he remembers, he apologizes for last time, he has a preferred blend. The callback rewards returning.
 
 ---
 
