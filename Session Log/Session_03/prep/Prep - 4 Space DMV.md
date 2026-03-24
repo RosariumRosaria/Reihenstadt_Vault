@@ -36,6 +36,7 @@ Arguing about:
 - Leaving Group Green.
 - Family in Green.
 - Will claim that Charlie and Mark are a couple.
+- Ivan and Simon
 Players must intervene to move line. Bribe, help resolve the family dispute 
 
 ---
@@ -102,7 +103,7 @@ Albert
 - Monotone condolence response.
 #### Indy
 - Framed as local overseer of "offworlders".
-- Subtle co-opting attempt.
+- UYubtle co-opting attempt.
 #### Charlie
 - Standard intake.
 - Asked regarding cradle and schooling.
