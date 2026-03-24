@@ -28,9 +28,9 @@ tags:
 -
 
 ## Connected Entities
-- **People:** [[Person]]
-- **Factions:** [[Faction]]
-- **Related Places:** [[Place]]
+- **People:** 
+- **Factions:**
+- **Related Places:** 
 
 ## Player-Facing Status
 - Have the players been here? What do they know about it?

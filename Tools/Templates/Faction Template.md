@@ -30,9 +30,9 @@ tags:
 -
 
 ## Connected Entities
-- **People:** [[Person]]
-- **Places:** [[Place]]
-- **Other Factions:** [[Faction]]
+- **People:** Person
+- **Places:** Place
+- **Other Factions:** Faction
 
 ## Notes
 -

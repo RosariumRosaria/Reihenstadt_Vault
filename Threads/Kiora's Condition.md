@@ -6,6 +6,8 @@ arc: 1
 tags:
   - thread
   - nhp
+aliases:
+  - Thread — Kiora's Condition
 ---
 # Thread — Kiora's Condition
 

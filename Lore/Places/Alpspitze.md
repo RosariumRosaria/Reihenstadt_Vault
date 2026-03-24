@@ -18,9 +18,9 @@ tags:
 - Locally nicknamed "Alpfritze" (joke from tourism material)
 
 ## Current Situation
-- [[APHELION]] is interfering with the gate — see [[Thread — APHELION]]
+- [[APHELION]] is interfering with the gate — see [[Threads/APHELION|Thread — APHELION]]
 - [[OVERSIGHT]] has gate defense responsibilities
 
 ## Notes
-- Gate security is a reason the PCs might get pulled into APHELION-related missions
+- Gate security is a reason the PCs might get pulled into [[Lore/Factions/APHELION|APHELION]]-related missions
 - The gate's long failure is central to Reihenstadt's cultural identity — isolation shaped everything

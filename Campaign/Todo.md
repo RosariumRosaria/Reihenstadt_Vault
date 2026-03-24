@@ -5,30 +5,46 @@
 ---
 ## Now
 *What you need before the next session.*
-- [ ] Message for Yskabder from darj
-- [ ] Flesh out session 2
-	- [ ] **Review notes on downtime**
-	- [ ] **Review notes on speech**
-	- [ ] **Review notes on dmv**
-	- [ ] One more must do task on the station
-	- [ ] Flesh out heimkrone's downtime
+- [ ] Flesh out session 3
+	- [ ] Name HA local sub-group
 	- [ ] Flesh out shuttle
-- [ ] Figure out the crash site for session 3 
+- [ ] Figure out the crash site for session 4
 	- [ ] What caused the crash?
-	- [ ] What's the site they crash into? (SecComm ruin add page in here)
-	- [ ] How do they repair mechs?
+	- [x] [[crashsite]]
 	- [ ] Kiora gets damaged — how, and how bad?
 	- [ ] **Map the site** you'll find this fun evie
 	- [ ] 2+ combat encounters in there
 	- [ ] Pilot-scale dangers (rooms too small for mechs)
 	- [ ] Something for each player to shine at
+	- [ ] Who is waiting for them when they arrive
+- [ ] Figure out sessions 5+
+	- [ ]  We should introduce chen, the base, go over the goals
+	- [ ] Then the planet should open up
+	- [ ] Make a point crawl of the world
+		- [ ] These are like precontained missions for the player, which lead to other missions. They'll have a mix of RP, combat and investigative issues
+		- [ ] Examples:
+			- [ ] Going to Capital
+				- [ ] RP POIs
+					- [ ] Government
+					- [ ] Discuss with 
+				- [ ] Social POIs
+					- [ ] 
+				- [ ] 
+				- [ ] 
+			- [ ] Inspecting aphelion activity
+			- [ ] In
+		- [ ] Periodic Threats should occasionally happen:
+			- [ ] Aphelion attack
+			- [ ] Old drone-mechs begin raids
+			- [ ] Normal pirates
 
 
 ## Next
 *Prep work that isn't urgent but feeds the next few sessions.*
+- [ ] Message for Yskabder from darj
 - [ ] Add player NPCs to wiki (Alina, others?)
 - [ ] Write wiki page for Aphelion
-- [ ] Name HA local sub-group
+
 - [ ] Flesh out Lancer-relevant factions on wiki
 - [ ] Gyumri wiki page
 - [ ] Write HA representative NPC (for summit arc)
@@ -45,6 +61,8 @@
 - [ ] Additional GOIs beyond APHELION
 - [ ] Pre-reunification archive material for wiki
 
+
+
 ## Someday
 *Fun ideas. No pressure.*
 
@@ -52,7 +70,6 @@
 - [ ] Admin dashboard page on wiki
 - [ ] Clearance refresh mechanic
 - [ ] Fake "currently logged in users" on wiki
-- [ ] Thematic 404 page
 - [ ] Activity logs on wiki for surveillance atmosphere
 - [ ] Mission: Players defend ship by fighting aboard it
 	- [ ] Different downtime activities to make fight easier

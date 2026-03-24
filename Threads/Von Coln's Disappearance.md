@@ -16,13 +16,13 @@ tags:
   - *Kidnapped and moved off-world before the team arrived*
   - *Killed, and evidence was destroyed*
   - *Convinced/coerced to leave voluntarily (blackmail? threats to family?)*
-  - *Detained by a third party (APHELION?) with HA benefiting incidentally*
+  - *Detained by a third party ([[Lore/Factions/APHELION|APHELION]]?) with HA benefiting incidentally*
 - *(TODO: WHO specifically? An HA operative? A local collaborator? Lukas Richter?)*
 - *(TODO: WHERE is he now? Alive or dead?)*
 
 ## What the Players Know
 - Von Coln is missing — this is the mission
-- Ship gossip (Session 1): giant squid, locals, pirates — all false but entertaining
+- Ship gossip (Session 1): [[giant squid]], locals, pirates — all false but entertaining
 - Captain Haley framed it as: find him, rescue if possible, confirm status if not
 - Six-month clock before the summit
 

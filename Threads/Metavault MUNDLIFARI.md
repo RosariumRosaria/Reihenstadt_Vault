@@ -6,6 +6,9 @@ arc: 2+
 tags:
   - thread
   - paracausal
+aliases:
+  - Thread — Metavault MUNDLIFARI
+  - MUNDLIFARI
 ---
 # Thread — Metavault MUNDLIFARI
 
@@ -33,8 +36,8 @@ tags:
 ## Connected Entities
 - [[Allison Chen]] (direct involvement)
 - [[OVERSIGHT Night Side Archive]] (likely location)
-- [[Thread — SCYLLA'S BASILISK]] (possibly related)
-- [[Thread — APHELION]] — HORUS plants within APHELION are steering toward manufactured cascades specifically to harvest metavault technology. MUNDLIFARI may be their target on Reihenstadt.
+- Thread [[SCYLLA'S BASILISK]] (possibly related)
+- [[Threads/APHELION|Thread — APHELION]] — HORUS plants within [[Lore/Factions/APHELION|APHELION]] are steering toward manufactured cascades specifically to harvest metavault technology. MUNDLIFARI may be their target on Reihenstadt.
 
 ## Notes
 - "Someday" todo includes a mission where players enter the metavault — this is an endgame scenario

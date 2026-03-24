@@ -20,7 +20,7 @@ tags:
 - Institutional tone: formal, procedural, with dry humor underneath
 
 ## Structure
-- [[**Overseer Chen**]] runs the Night Side Archive
+- [[Allison Chen|Overseer Chen]] runs the Night Side Archive
 - **The PCs** are a Lancer team operating under Chen
 - **OVERSIGHT Committee** exists above Chen (indirect authority)
 - Monitoring Division includes NHP assets ([[Kiora]])

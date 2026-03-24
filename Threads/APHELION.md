@@ -7,6 +7,8 @@ tags:
   - thread
   - nhp
   - horus
+aliases:
+  - Thread — APHELION
 ---
 # Thread — APHELION
 
@@ -41,8 +43,8 @@ tags:
 - [[Kiora]] — Dawnline Shore history, cascade connection
 - [[Darj Tarats]] — former pilot is high-ranking APHELION
 - [[Alpspitze]] — gate interference
-- [[Thread — Metavault MUNDLIFARI]] — the real target
-- [[Thread — Kiora's Condition]] — cascade trauma traces back here
+- [[Metavault MUNDLIFARI|Thread — Metavault MUNDLIFARI]] — the real target
+- [[Kiora's Condition|Thread — Kiora's Condition]] — cascade trauma traces back here
 
 ## Notes
 - This thread connects to almost everything else in the campaign — it's the hidden spine beneath the political spine

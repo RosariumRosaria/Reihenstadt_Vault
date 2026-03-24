@@ -30,7 +30,7 @@ tags:
 - **Allies:**
 - **Rivals:**
 - **Reports to:**
-- **Associated Places:** [[Place]]
+- **Associated Places:**
 
 ## Player-Facing Status
 - Have the players met them? What do they know?

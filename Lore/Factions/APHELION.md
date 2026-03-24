@@ -23,7 +23,7 @@ tags:
 | ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------- |
 | **True believers**     | Ideologues, NHP sympathizers                                  | Liberating NHPs from unjust shackling                   | Being used as cover and operational muscle                      |
 | **Grievance recruits** | Locals who for have grown to view NHPs as people              | Sticking it to Heimkrone, Union, Oversight              | Being radicalized and pointed at targets of HORUS interest      |
-| **Gyumri Allies**      | Locals from [[Gyrumi]] who view Reihenstadt as slavers        | Helping foster a new better Reihenstadt                 | Apehelion will betray them too. Enter forced breaking of chains |
+| **Gyumri Allies**      | Locals from [[Gyumri]] who view Reihenstadt as slavers        | Helping foster a new better Reihenstadt                 | Apehelion will betray them too. Enter forced breaking of chains |
 | **HORUS plants**       | Embedded [[HORUS]] operatives                                 | Guiding APHELION toward "high-value" liberation targets | Manufacturing cascade events to harvest metavault tech          |
 | **SSC**                | A rich SSC exec who is paying HORUS to get access to new tech | Unknown                                                 |                                                                 |
 

@@ -17,7 +17,7 @@ tags:
 
 ## On Reihenstadt
 - Economically entrenched — they were here during isolation
-- Politically circling — [[von Coln]]'s disappearance benefits them
+- Politically circling — [[Franz von Coln|von Coln]]'s disappearance benefits them
 - If the summit goes their way, HA and Heimkrone partner, Union gets pushed out
 - *(TODO: write the HA representative NPC — who is their face at the summit?)*
 
@@ -30,7 +30,7 @@ tags:
 
 ## Connected Entities
 - **People:** *(TODO: HA representative NPC)*
-- **Related threads:** [[Thread — Von Coln]], [[Thread — Summit]]
+- **Related threads:** [[Von Coln's Disappearance]], [[The Diplomatic Summit]]
 
 ## Notes
 - HA needs to feel like a credible political threat, not just mustache-twirling villains

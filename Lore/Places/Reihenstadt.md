@@ -24,7 +24,7 @@ tags:
 - **Equatorial Band:** New Danube river system, island corridors, Capital Cordon
 - **Evening Side:** Nightlife district, the Spire
 - **Night Side:** Frontier, ski slopes, permanent dark; OVERSIGHT Archive is here
-- Orbital elevator connects surface to [[Heimkrone]]
+- Orbital elevator connects surface to [[Heimkrone Station]]
 
 ## Culture
 - [[Kalenderkarte]] system: assigned waking hours, work periods, leisure windows

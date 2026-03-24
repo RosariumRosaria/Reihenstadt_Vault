@@ -28,7 +28,7 @@ Players may split up or pair off.
 	- The chef is nice, you know Gus well.
 - Plenty of open space, this section of the ship is kept spinning internally to simulate grav
 - Players can overhear a rumor about the planet below
-	- Two cadets are arguing if the admin was eaten by a giant squid on the ice side, stolen by locals, or simply left to join a pirate group in the system
+	- Two cadets are arguing if the admin was eaten by a [[giant squid]] on the ice side, stolen by locals, or simply left to join a pirate group in the system
 - Analyst shows up 
 	- betting pool ssc dovetail
 	- indy bet on HA

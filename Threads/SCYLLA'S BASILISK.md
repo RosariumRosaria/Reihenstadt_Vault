@@ -1,11 +1,13 @@
 ---
 type: thread
-name: "SCYLLA'S BASILISK"
+name: SCYLLA'S BASILISK
 status: dormant (long-term)
 arc: 2+
 tags:
   - thread
   - paracausal
+aliases:
+  - Thread — SCYLLA'S BASILISK
 ---
 # Thread — SCYLLA'S BASILISK
 
@@ -31,7 +33,7 @@ tags:
 ## Connected Entities
 - [[OVERSIGHT Night Side Archive]] (likely containment site)
 - [[Allison Chen]] (aware of it?)
-- Possible connection to [[Thread — Metavault MUNDLIFARI]]
+- Possible connection to [[Metavault MUNDLIFARI|Thread — Metavault MUNDLIFARI]]
 
 ## Notes
 - This is a slow-burn, late-campaign thread — don't reveal too early
