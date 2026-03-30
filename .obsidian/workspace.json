@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "5de724f05a6b3e17",
+    "id": "61935e87cae12d97",
     "type": "split",
     "children": [
       {
-        "id": "8de928613a4bd99e",
+        "id": "fc5ec48aa2dfb81c",
         "type": "tabs",
         "children": [
           {
-            "id": "55582545f464b423",
+            "id": "6b496c7ab78d6c4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Staging/crashsite.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "crashsite"
-            }
-          },
-          {
-            "id": "a01171aee1cb5c9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Staging/crashsite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "crashsite"
-            }
-          },
-          {
-            "id": "0a1beccf8bfc6c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Arc 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arc 2"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ad50d5355b909dab",
+    "id": "ef771b072efb503d",
     "type": "split",
     "children": [
       {
-        "id": "ac4d782998a55631",
+        "id": "42bc13fb25338aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "8af7535910a7791c",
+            "id": "b9ac4b534fccfdbd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +44,7 @@
             }
           },
           {
-            "id": "800b8ce51908bdc2",
+            "id": "d5ffbfe06bf65f57",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "68a37cb8de29bcc1",
+            "id": "704b41beb6417dbb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "43a6cec9aab9e495",
+    "id": "600f7bb3ccf1342c",
     "type": "split",
     "children": [
       {
-        "id": "fda096425ba27cc5",
+        "id": "b9415e7717328640",
         "type": "tabs",
         "children": [
           {
-            "id": "895d4f50910f1128",
+            "id": "a8f0808ce7c6a9dd",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -136,7 +103,7 @@
             }
           },
           {
-            "id": "ec2355e8d4a8c8b2",
+            "id": "c8603783a84966f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -149,7 +116,7 @@
             }
           },
           {
-            "id": "f90f5e0f38f80d5d",
+            "id": "901b56f61d35af03",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,7 +131,7 @@
             }
           },
           {
-            "id": "bff924d657944d76",
+            "id": "c8f7235aac7d7d4d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -178,7 +145,7 @@
             }
           },
           {
-            "id": "b0a177170baf6df8",
+            "id": "b707de3d56b5d9f6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -209,43 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "8af7535910a7791c",
-  "lastOpenFiles": [
-    "Session Log/Session_03/prep/Prep - 4 Space DMV.md",
-    "Session Log/Session_03/prep/Prep - 5 One last Task.md",
-    "Session Log/Session_03/prep/Prep - 3 Heimkrone Exploration.md",
-    "Session Log/Session_03/prep",
-    "Session Log/Session_03/Debrief.md",
-    "Campaign/Arc 1.md",
-    "Campaign/Arc 2.md",
-    "Staging/crashsite.md",
-    "Campaign/Todo.md",
-    "Session Log/Session_03/Prep - 3 Heimkrone Exploration.md",
-    "Session Log/Session_02/Debrief 2.md",
-    "Session Log/Session_03/Prep - 5 One last Task.md",
-    "Threads/Giant Squid.md",
-    "Session Log/Session_03/Prep - 6 Shuttle ride.md",
-    "Session Log/Session_02/Prep/Prep - 2 Captains Briefing.md",
-    "Session Log/Session_03/Prep - 4 Space DMV.md",
-    "Campaign/Wiki Todo.md",
-    "Lore/People/Civilians/Candance.md",
-    "Lore/People/Civilians/Jones.md",
-    "Lore/People/Civilians/Greggor.md",
-    "Lore/People/Civilians/Ford.md",
-    "Indiana.md",
-    "Lore/People/Heimkrone/Albert.md",
-    "Lore/Places/Untitled",
-    "Lore/People/Union/Navy",
-    "Lore/People/Civilians",
-    "Lore/People/Heimkrone",
-    "Lore/People/Union/Navy/Sara.md",
-    "Lore/People/OVERSIGHT",
-    "Lore/People/Union",
-    "Lore/Factions/HORUS.md",
-    "Lore/Factions/Union.md",
-    "Lore/Factions/Harrison Armory.md",
-    "TODO",
-    "Lore/Misc",
-    "Session Log/Session_03"
-  ]
+  "active": "6b496c7ab78d6c4e",
+  "lastOpenFiles": []
 }
