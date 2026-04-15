@@ -14,7 +14,9 @@ tags:
 
 ## What the Players Know
 - Brought up by cadets
-- Brought up by fake reportertest
+- Brought up by fake reporter
+- Brought up by harrison armories as a mech concept
+	- [[Charlie]] helped them design it
 
 ## Emotional Stakes
 - It will be so funny when they have to fight it
@@ -25,24 +27,3 @@ tags:
 
 ## Notes
 - Make it a major boss
-# Thread — Giant Squid
-
-## The Truth (GM Only)
-- What is actually going on:
-
-## What the Players Know
-- As of Session ___:
-
-## What Clues Exist (Not Yet Found)
--
-
-## Foreshadowing Already Planted
--
-
-## Connected Entities
-- **People:**
-- **Places:**
-- **Other threads:**
-
-## Notes
--
