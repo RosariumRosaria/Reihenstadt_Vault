@@ -11,7 +11,7 @@ tags:
 
 ## The Truth (GM Only)
 - **Nominal purpose:** Discuss integration effort and status of nearby systems (including Yskander's home system)
-- **Real purpose:** Determine who leads — HA or Union
+- **Real purpose:** Determine who leads — HA or Union 
 - **If von Coln is absent:** HA and Heimkrone partner, Union gets forced out of the system (except the PCs)
 - **If von Coln is found:** *(TODO: what changes? Does Union automatically win? Is he compromised? Does his testimony matter?)*
 

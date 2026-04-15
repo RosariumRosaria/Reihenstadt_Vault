@@ -6,21 +6,13 @@
 ## Now
 *What you need before the next session.*
 - [ ] Prep for next session
-	- [ ] What is in safe room in cabin
-		- [ ] Printers and You
-			- [ ] Dummy LL1 Pilot Credentials
-			- [ ] Explains the new printer system
-			- [ ] Explains the need for raw materials
-		- [ ] Map of the entire facility
-		- [ ] Well furnished chamber, terminal with access to emergency systems
-		- [ ] Data key with access to the main computer core
-			- [ ] Second half of the one they received from the heist
-	- [ ] what is going to happen with Charlie working with the drones
-	 - One drone is going to come up to him and gently try and pick him up and move him
-	- [ ] In particular. Sort out foundry
-		- [ ] Players by default can access the printers if the power is on
-		- [ ] Players need the LL1 Credentials to access
-		- [ ] If they
+	- [ ] Write debrief
+	- [ ] Write my recaps
+	- [ ] Update session nnotes with changes
+	- [ ] updateq uotes
+	- [ ] Update map with changes
+	- [ ] figure out status of the players and what will happen
+	- [ ] Get a few documents they can find
 	- [ ] Go over the whole facility notes
 	- [ ] Set up the first combat properly
 	- [ ] Scatter min more loot and findables

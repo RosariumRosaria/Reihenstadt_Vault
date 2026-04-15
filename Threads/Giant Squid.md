@@ -14,7 +14,7 @@ tags:
 
 ## What the Players Know
 - Brought up by cadets
-- Brought up by fake reporter
+- Brought up by fake reportertest
 
 ## Emotional Stakes
 - It will be so funny when they have to fight it
