@@ -19,6 +19,7 @@
 	- [ ] Go over the whole facility notes
 	- [ ] Go over up the first combat 
 	- [ ] Make sure the laptop has it
+	- [ ] Update map with less blury form?
 
 
 
