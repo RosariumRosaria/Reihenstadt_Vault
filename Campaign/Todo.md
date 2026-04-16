@@ -4,7 +4,6 @@
 
 ---
 ## Now
-*What you need before the next session.*
 - [ ] Prep for next session
 	- [ ] **Write db6** Thursday
 	- [ ] **Write my recap** Thursday
@@ -25,7 +24,6 @@
 
 
 ## Next
-*Prep work that isn't urgent but feeds the next few sessions.*
 - [ ] 3 new alerts
 - [ ] 2 new msgs per person
 - [ ] Figure out sessions 7+
@@ -57,15 +55,9 @@
 - [ ] Rough system map (gate, Heimkrone, key orbital assets)
 - [ ] Flesh out the town near Night Side Archive
 - [ ] Make von Coln's HA plant/fake Aphelion plant aide
-
 ## Later
-*Important but not blocking anything yet.*
-- [ ] Deep lore admin page for wiki
 - [ ] Corpo faction detail pages
 - [ ] Additional GOIs beyond APHELION
-
-
-
 
 ## Someday
 *Fun ideas. No pressure.*
