@@ -7,9 +7,9 @@
 *What you need before the next session.*
 - [ ] Prep for next session
 	- [ ] Write debrief
-	- [ ] Write my recaps
-	- [ ] Update session nnotes with changes
-	- [ ] updateq uotes
+	- [ ] Write my recap
+	- [ ] Update session notes with changes
+	- [ ] update quotes
 	- [ ] Update map with changes
 	- [ ] figure out status of the players and what will happen
 	- [ ] Get a few documents they can find
