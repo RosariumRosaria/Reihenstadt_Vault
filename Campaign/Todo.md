@@ -9,15 +9,11 @@
 	- [ ] Write debrief
 	- [ ] Write my recap
 	- [ ] Update session notes with changes
-	- [ ] update quotes
 	- [ ] Update map with changes
 	- [ ] figure out status of the players and what will happen
-	- [ ] Get a few documents they can find
 	- [ ] Go over the whole facility notes
 	- [ ] Set up the first combat properly
 	- [ ] Scatter min more loot and findables
-		- [ ] Foundry has a CORE BATTERY
-		- [ ] They'll need raw materials (drones etc)
 	- [ ] Make sure the laptop has it
 
 
