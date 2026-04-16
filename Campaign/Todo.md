@@ -4,31 +4,30 @@
 
 ---
 ## Now
-*What you need before the next session.*
 - [ ] Prep for next session
-	- [ ] Write debrief
-	- [ ] Write my recaps
-	- [ ] Update session nnotes with changes
-	- [ ] updateq uotes
+	- [ ] **Write db6** Thursday
+	- [ ] **Write my recap** Thursday
+	- [ ] **Update session notes with changes** Thursday
+	- [ ] **aliana dossier** Thursday
 	- [ ] Update map with changes
+		- [ ] trace back charlies path
+		- [ ] update air vents
+		- [ ] New computer core room
 	- [ ] figure out status of the players and what will happen
-	- [ ] Get a few documents they can find
+		- [ ] Charlie is in computer core
+		- [ ] Others are lugging the power cores back?
 	- [ ] Go over the whole facility notes
-	- [ ] Set up the first combat properly
-	- [ ] Scatter min more loot and findables
-		- [ ] Foundry has a CORE BATTERY
-		- [ ] They'll need raw materials (drones etc)
+	- [ ] Go over up the first combat 
 	- [ ] Make sure the laptop has it
+	- [ ] Update map with less blury form?
 
 
 
 
 ## Next
-*Prep work that isn't urgent but feeds the next few sessions.*
-	- [ ] aliana dossier
 - [ ] 3 new alerts
 - [ ] 2 new msgs per person
-- [ ] Figure out sessions 5+
+- [ ] Figure out sessions 7+
 	- [ ]  We should introduce chen, the base, go over the goals
 	- [ ] Then the planet should open up
 	- [ ] Make a point crawl of the world
@@ -45,7 +44,7 @@
 			- [ ] Old drone-mechs begin raids
 			- [ ] Normal pirates
 - [ ] Message for Yskabder from darj
-- [ ] Add player NPCs to wiki (Alina, others?)
+- [ ] Add player NPCs to wiki (
 - [ ] Write wiki page for Aphelion
 - [ ] The newspaper article
 	- [ ] Name HA local sub-group
@@ -56,25 +55,15 @@
 - [ ] Rough planet map (zones, not detail)
 - [ ] Rough system map (gate, Heimkrone, key orbital assets)
 - [ ] Flesh out the town near Night Side Archive
-- [ ] M**ake von Coln's HA plant/fake Aphelion plant aide**
-
+- [ ] Make von Coln's HA plant/fake Aphelion plant aide
 ## Later
-*Important but not blocking anything yet.*
-- [ ] Deep lore admin page for wiki
 - [ ] Corpo faction detail pages
 - [ ] Additional GOIs beyond APHELION
-- [ ] Pre-reunification archive material for wiki
-
-
 
 ## Someday
 *Fun ideas. No pressure.*
-
 - [ ] USB prop for players
-- [ ] Admin dashboard page on wiki
-- [ ] Clearance refresh mechanic
-- [ ] Fake "currently logged in users" on wiki
-- [ ] Activity logs on wiki for surveillance atmosphere
 - [ ] Mission: Players defend ship by fighting aboard it
 	- [ ] Different downtime activities to make fight easier
 - [ ] Mission: Players enter the metavault
+- [ ] Pre-reunification archive material for wiki
