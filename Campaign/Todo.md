@@ -13,12 +13,12 @@
 		- [ ] update air vents
 		- [ ] New computer core room
 	- [ ] figure out status of the players and what will happen
-		- [ ] Charlie is in computer core
+		- [ ] Charlie is in computer core, 
 		- [ ] Others are lugging the power cores back?
 	- [ ] Go over the whole facility notes
 	- [ ] Go over up the first combat 
 	- [ ] Make sure the laptop has it
-	- [ ] Update map with less blury form?
+	- [ ] make documents from computer
 
 
 
