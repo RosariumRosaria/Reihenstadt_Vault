@@ -8,7 +8,6 @@
 	- [ ] **Write db6** Thursday
 	- [ ] **Write my recap** Thursday
 	- [ ] **Update session notes with changes** Thursday
-	- [ ] **aliana dossier** Thursday
 	- [ ] Update map with changes
 		- [ ] trace back charlies path
 		- [ ] update air vents
