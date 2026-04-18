@@ -19,6 +19,7 @@
 	- [ ] Go over up the first combat 
 	- [ ] Make sure the laptop has it
 	- [ ] make documents from computer
+	- [ ] Review alina
 
 
 
