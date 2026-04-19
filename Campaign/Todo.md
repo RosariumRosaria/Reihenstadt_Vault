@@ -44,7 +44,6 @@
 			- [ ] Old drone-mechs begin raids
 			- [ ] Normal pirates
 - [ ] Message for Yskabder from darj
-- [ ] Add player NPCs to wiki (
 - [ ] Write wiki page for Aphelion
 - [ ] The newspaper article
 	- [ ] Name HA local sub-group
