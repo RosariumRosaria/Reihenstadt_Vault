@@ -6,8 +6,6 @@
 ## Now
 - [ ] Prep for next session
 	- [ ] **Write db6** Thursday
-	- [ ] **Write my recap** Thursday
-	- [ ] **Update session notes with changes** Thursday
 	- [ ] figure out status of the players and what will happen
 		- [ ] Charlie is in computer core, 
 		- [ ] Others are lugging the power cores back?
