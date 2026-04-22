@@ -7,18 +7,15 @@
 - [ ] Prep for next session
 	- [ ] **Write db6** Thursday
 	- [ ] figure out status of the players and what will happen
-		- [ ] Charlie is in computer core, 
+		- [ ] Charlie is in computer core,
 		- [ ] Others are lugging the power cores back?
-	- [ ] Go over up the first combat 
-	- [ ] Make sure the laptop has it
-	- [ ] make documents from computer
 	- [ ] Review alina
 
 
 
 
 ## Next
-- [ ] 3 new alerts
+- [x] 3 new alerts
 - [ ] 2 new msgs per person
 - [ ] Figure out sessions 7+
 	- [ ]  We should introduce chen, the base, go over the goals
