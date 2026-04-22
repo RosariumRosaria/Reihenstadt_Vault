@@ -5,10 +5,9 @@
 ---
 ## Now
 - [ ] Prep for next session
-	- [ ] **Write db6** Thursday
+	- [ ] **Write db6** and 7
 	- [ ] figure out status of the players and what will happen
-		- [ ] Charlie is in computer core,
-		- [ ] Others are lugging the power cores back?
+		- [ ] all are in the main room, repaired their mechs
 	- [ ] Review alina
 
 
